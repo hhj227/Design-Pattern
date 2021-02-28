@@ -1,2 +1,6 @@
-abstract_factory_hf/PizzaStoreTest.java
- abstract_factory_hf.PizzaStoreTest
+creational/abstract_factory_hf/PizzaStoreTest.java
+ creational.abstract_factory_hf.PizzaStoreTest
+creational/builder_ej/NutritionFactsTest.java
+ creational.builder_ej.NutritionFactsTest
+creational/factory_method_hf/BeverageTest.java
+ creational.factory_method_hf.BeverageTest

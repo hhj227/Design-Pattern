@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="creational.factory_method_hf.BeverageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-28T08:09:39" hostname="hanhyejeong-ui-MacBook-Pro.local" time="0.028">
+  <properties/>
+  <testcase name="test()" classname="creational.factory_method_hf.BeverageTest" time="0.028"/>
+  <system-out><![CDATA[물 끓이는 중
+차를 우려내는 중
+컵에 따르는 중
+레몬을 추가하는 중
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
