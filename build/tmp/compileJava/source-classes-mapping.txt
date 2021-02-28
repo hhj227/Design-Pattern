@@ -1,0 +1,54 @@
+abstract_factory_hf/ingredient/cheese/Cheese.java
+ abstract_factory_hf.ingredient.cheese.Cheese
+abstract_factory_hf/ingredient/cheese/MozzarellaCheese.java
+ abstract_factory_hf.ingredient.cheese.MozzarellaCheese
+abstract_factory_hf/ingredient/dough/ThickCrustDough.java
+ abstract_factory_hf.ingredient.dough.ThickCrustDough
+abstract_factory_hf/ingredient/cheese/ParmesanCheese.java
+ abstract_factory_hf.ingredient.cheese.ParmesanCheese
+abstract_factory_hf/ingredient/dough/Dough.java
+ abstract_factory_hf.ingredient.dough.Dough
+abstract_factory_hf/ingredient/dough/ThinCrustDough.java
+ abstract_factory_hf.ingredient.dough.ThinCrustDough
+abstract_factory_hf/ingredient/veggie/BlackOlives.java
+ abstract_factory_hf.ingredient.veggie.BlackOlives
+abstract_factory_hf/pizza/VeggiePizza.java
+ abstract_factory_hf.pizza.VeggiePizza
+abstract_factory_hf/pizza/PepperoniPizza.java
+ abstract_factory_hf.pizza.PepperoniPizza
+abstract_factory_hf/ingredient/PizzaIngredientFactory.java
+ abstract_factory_hf.ingredient.PizzaIngredientFactory
+abstract_factory_hf/pizza/ChicagoPizzaFactory.java
+ abstract_factory_hf.pizza.ChicagoPizzaFactory
+abstract_factory_hf/ingredient/pepperoni/SlicedPepperoni.java
+ abstract_factory_hf.ingredient.pepperoni.SlicedPepperoni
+abstract_factory_hf/pizza/CheesePizza.java
+ abstract_factory_hf.pizza.CheesePizza
+abstract_factory_hf/store/ChicagoPizzaStore.java
+ abstract_factory_hf.store.ChicagoPizzaStore
+abstract_factory_hf/ingredient/ChicagoPizzaIngredientFactory.java
+ abstract_factory_hf.ingredient.ChicagoPizzaIngredientFactory
+abstract_factory_hf/ingredient/sauce/Sauce.java
+ abstract_factory_hf.ingredient.sauce.Sauce
+abstract_factory_hf/ingredient/sauce/MarinaraSauce.java
+ abstract_factory_hf.ingredient.sauce.MarinaraSauce
+abstract_factory_hf/store/NYPizzaStore.java
+ abstract_factory_hf.store.NYPizzaStore
+abstract_factory_hf/store/PizzaStore.java
+ abstract_factory_hf.store.PizzaStore
+abstract_factory_hf/ingredient/veggie/Spinach.java
+ abstract_factory_hf.ingredient.veggie.Spinach
+abstract_factory_hf/ingredient/sauce/PlumTomatoSauce.java
+ abstract_factory_hf.ingredient.sauce.PlumTomatoSauce
+abstract_factory_hf/PizzaFactory.java
+ abstract_factory_hf.PizzaFactory
+abstract_factory_hf/pizza/Pizza.java
+ abstract_factory_hf.pizza.Pizza
+abstract_factory_hf/ingredient/veggie/Garlic.java
+ abstract_factory_hf.ingredient.veggie.Garlic
+abstract_factory_hf/ingredient/veggie/Veggies.java
+ abstract_factory_hf.ingredient.veggie.Veggies
+abstract_factory_hf/ingredient/NYPizzaIngredientFactory.java
+ abstract_factory_hf.ingredient.NYPizzaIngredientFactory
+abstract_factory_hf/ingredient/pepperoni/Pepperoni.java
+ abstract_factory_hf.ingredient.pepperoni.Pepperoni
